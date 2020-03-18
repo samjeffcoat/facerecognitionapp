@@ -140,14 +140,13 @@ class App extends Component {
                 route,
                 box
             } = this.state;
-            return ( <
-                div className = "App" >
+            return ( < div className = "App" >
                 <
                 Particles className = "particles"
                 params = {
                     particleOptions
                 }
-                /> <
+                />  <
                 Navigation isSignedIn = {
                     isSignedIn
                 }
@@ -167,43 +166,40 @@ class App extends Component {
                 entries = {
                     this.state.user.entries
                 }
-                / > <
+                />  <
                 ImageLinkForm onInputChange = {
                     this.onInputChange
                 }
                 onButtonSubmit = {
                     this.onButtonSubmit
                 }
-                /> <
+                />  <
                 FaceRecognition box = {
                     box
                 }
                 imageUrl = {
                     imageUrl
                 }
-                /> < /
+                />  < /
                 div > :
                 (
-                    this.state.route === 'signin' ?
+                    route === 'signin' ?
                     <
-                    SignIn loadeUser = {
+                    SignIn loadUser = {
                         this.loadUser
                     }
                     onRouteChange = {
                         this.onRouteChange
                     }
-                    /> : <Register onRouteChange = {
+                    /> : <Register loadUser= {this.loadUser} onRouteChange = {
                     this.onRouteChange
-                }
-                loadUser = {
-                    this.loadUser
                 }
                 />
             )
 
         } <
         /div>
-);
+)
 }
 }
 
