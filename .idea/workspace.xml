@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360478f5-3a3f-4b50-815f-7394da3b3d02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/facialrecognition/icons8-brain-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/ImageLinkForm/ImageLinkForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/ImageLinkForm/ImageLinkForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/Logo/Logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/Logo/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/Logo/brain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialrecognition/src/components/Rank/Rank.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facialrecognition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/facialrecognition/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facialrecognition/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/facialrecognition/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facialrecognition/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/facialrecognition/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facialrecognition/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/facialrecognition/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facialrecognition/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/facialrecognition/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facialrecognition/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +64,8 @@
       <updated>1583367537070</updated>
       <workItem from="1583367557086" duration="39000" />
       <workItem from="1583429420531" duration="6736000" />
+      <workItem from="1584571703825" duration="71000" />
+      <workItem from="1584571812677" duration="190000" />
     </task>
     <servers />
   </component>
@@ -85,5 +74,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584571763013">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1584571763013" />
   </component>
 </project>
